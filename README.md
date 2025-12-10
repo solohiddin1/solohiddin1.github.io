@@ -1,11 +1,9 @@
 # Hi there, I'm Sirojiddinov Solohiddin 👋
 
 <div align="center">
-  <img src="profil2.jpg" alt="Profile Picture" width="140" style="border-radius: 50%;"/>
   
   ### Software Engineer
   
-  *Mobile dastur ishlab chiqaruvchi. NonBor va FitMe ilovalarining yaratuvchisi.*
 </div>
 
 ---
@@ -26,16 +24,6 @@
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
   </a>
 </p>
-
----
-
-## 🚀 My Projects
-
-### 📱 NonBor
-Mobile dastur - [Ko'proq ma'lumot](#)
-
-### 💪 FitMe
-Fitness ilovasi - [Ko'proq ma'lumot](#)
 
 ---
 
@@ -74,5 +62,5 @@ Fitness ilovasi - [Ko'proq ma'lumot](#)
 ---
 
 <div align="center">
-  <sub>by Sirojiddinov Solohiddin</sub>
+  <sub>Built with ❤️ by Sirojiddinov Solohiddin</sub>
 </div>
